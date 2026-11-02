@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GI-Magnifier</string>
+    <string name="camera_permission_required">Permesso fotocamera richiesto</string>
+    <string name="camera_permission_rationale">L\'app ha bisogno della fotocamera per funzionare come lente d\'ingrandimento e scattare foto.</string>
+    <string name="grant_permission">Consenti accesso</string>
+    <string name="torch_on">Torcia accesa</string>
+    <string name="torch_off">Torcia spenta</string>
+    <string name="freeze_frame">Fermo immagine</string>
+    <string name="unfreeze_frame">Riprendi anteprima</string>
+    <string name="take_photo">Scatta foto</string>
+    <string name="gallery_title">Foto salvate</string>
+    <string name="no_photos">Nessuna foto salvata</string>
+    <string name="delete_photo">Elimina</string>
+    <string name="share_photo">Condividi</string>
+    <string name="filter_none">Naturale</string>
+    <string name="filter_invert">Negativo</string>
+    <string name="filter_mono">B/N Contrasto</string>
+    <string name="filter_high_contrast">Giallo su Nero</string>
+    <string name="filter_sepia">Seppia</string>
+    <string name="zoom_label">Ingrandimento</string>
+    <string name="brightness_label">Luminosità</string>
+    <string name="photo_saved">Foto salvata con successo!</string>
+    <string name="photo_save_error">Errore durante il salvataggio della foto</string>
+</resources>

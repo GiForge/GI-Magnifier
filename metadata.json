@@ -1,0 +1,6 @@
+{
+  "name": "GI-Magnifier",
+  "description": "App professionale lente di ingrandimento con zoom continuo, torcia LED, fermo immagine, filtri di contrasto per lettura e scatto foto ad alta risoluzione.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
